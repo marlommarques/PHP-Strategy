@@ -1,4 +1,4 @@
-# PHP-POO
+# PHP Strategy
 ### Getting started  
 Para executar o projeto, será necessário ter instalado
 - PHP: 7^
